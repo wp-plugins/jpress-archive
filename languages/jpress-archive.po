@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jpress-archive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-12 20:35+0300\n"
+"PO-Revision-Date: 2015-05-12 20:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: Johary Ranarimanana <johary.ranarimanana@netapsys.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;gettext;gettext_noop;_e;_n:1,2;_n_noop:1,2;_c;"
+"_nc:1,2;_ex;_nx_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jpress-archive.php:22 jpress-archive.php:256 jpress-archive.php:270
+#: jpress-archive.php:276 jpress-archive.php:285
+msgid "Archived"
+msgstr ""
+
+#: jpress-archive.php:27
+#, php-format
+msgid "Archived <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: jpress-archive.php:74
+msgid "Move to archive"
+msgstr ""
+
+#: jpress-archive.php:75 jpress-archive.php:289 jpress-archive.php:290
+msgid "Archive"
+msgstr ""
+
+#: jpress-archive.php:81 jpress-archive.php:82
+msgid "Restore"
+msgstr ""
+
+#: jpress-archive.php:99
+msgid "No post to archive !"
+msgstr ""
+
+#: jpress-archive.php:119 jpress-archive.php:153
+msgid "Sorry, no ID specified."
+msgstr ""
+
+#: jpress-archive.php:132
+msgid "No post to restore !"
+msgstr ""
+
+#: jpress-archive.php:197
+#, php-format
+msgid "The item was moved to the archives."
+msgid_plural "%s items were moved to the archives."
+msgstr[0] ""
+msgstr[1] ""
+
+#: jpress-archive.php:217
+#, php-format
+msgid "The item has been restored : %2$s."
+msgid_plural "%1$s items were restored : %2$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-center-tab.php:48
+msgid "Settings"
+msgstr ""
+
+#: admin/admin-center-tab.php:51
+msgid "General Archive Settings"
+msgstr ""
+
+#: admin/admin-center-tab.php:52
+msgid "Public"
+msgstr ""
+
+#: admin/admin-center-tab.php:59
+msgid "Purge"
+msgstr ""
+
+#: admin/admin-center-tab.php:62
+msgid "Purge Settings"
+msgstr ""
+
+#: admin/admin-center-tab.php:63
+msgid "Delete items older than"
+msgstr ""
+
+#: admin/admin-center-tab.php:64
+msgid "Items to delete"
+msgstr ""
+
+#: admin/admin-center-tab.php:76
+msgid "Archives are publicly visible in front end"
+msgstr ""
+
+#: admin/admin-center-tab.php:101
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-center-tab.php:102
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/admin-center-tab.php:127 admin/admin-center-tab.php:137
+#, fuzzy
+msgid "Archives center"
+msgstr "Archived"
+
+#: widget/class-jpress-archive-widget.php:15
+msgid "As monthly archive of your site&#8217;s Posts."
+msgstr ""
+
+#: widget/class-jpress-archive-widget.php:16
+#, fuzzy
+msgid "jPress Archives"
+msgstr "Archived"
+
+#: widget/class-jpress-archive-widget.php:55
+msgid "Post type :"
+msgstr ""
+
+#~ msgid "Sorry, no ID specified"
+#~ msgstr "Désolé, aucun ID spécifié"

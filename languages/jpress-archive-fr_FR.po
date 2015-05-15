@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jpress-archive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-12 21:59+0300\n"
+"PO-Revision-Date: 2015-05-12 21:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: Johary Ranarimanana <johary.ranarimanana@netapsys.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;gettext;gettext_noop;_e;_n:1,2;_n_noop:1,2;_c;"
+"_nc:1,2;_ex;_nx_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jpress-archive.php:26 jpress-archive.php:264 jpress-archive.php:278
+#: jpress-archive.php:284 jpress-archive.php:293
+msgid "Archived"
+msgstr "Archivé"
+
+#: jpress-archive.php:31
+#, php-format
+msgid "Archived <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] "Archivé <span class=\"count\">(%s)</span>"
+msgstr[1] "Archivé <span class=\"count\">(%s)</span>"
+
+#: jpress-archive.php:79
+msgid "Move to archive"
+msgstr "Déplacer dans les archives"
+
+#: jpress-archive.php:80 jpress-archive.php:297 jpress-archive.php:298
+msgid "Archive"
+msgstr "Archiver"
+
+#: jpress-archive.php:86 jpress-archive.php:87
+msgid "Restore"
+msgstr "Restaurer"
+
+#: jpress-archive.php:104
+msgid "No post to archive !"
+msgstr "Aucun post à archiver !"
+
+#: jpress-archive.php:124 jpress-archive.php:158
+msgid "Sorry, no ID specified."
+msgstr "Désolé, aucun ID spécifié."
+
+#: jpress-archive.php:137
+msgid "No post to restore !"
+msgstr "Aucun post à restaurer !"
+
+#: jpress-archive.php:202
+#, php-format
+msgid "The item was moved to the archives."
+msgid_plural "%s items were moved to the archives."
+msgstr[0] "L'élément a été déplacé dans les archives."
+msgstr[1] "%s éléments ont été déplacé dans les archives."
+
+#: jpress-archive.php:222
+#, php-format
+msgid "The item has been restored : %2$s."
+msgid_plural "%1$s items were restored : %2$s."
+msgstr[0] "L'élément a été restauré  : %2$s."
+msgstr[1] "%1$s éléments ont été restauré : %2$s."
+
+#: admin/class-admin-setting.php:51
+msgid "Settings"
+msgstr "Configuration"
+
+#: admin/class-admin-setting.php:54
+msgid "General Archive Settings"
+msgstr "Configuration générale de l'archivage"
+
+#: admin/class-admin-setting.php:55
+msgid "Front End visibility"
+msgstr "Visibilité sur le front office"
+
+#: admin/class-admin-setting.php:56
+msgid "Back End visibility"
+msgstr "Visibilité dans l'interface d'administration"
+
+#: admin/class-admin-setting.php:63
+msgid "Purge"
+msgstr "Purge"
+
+#: admin/class-admin-setting.php:66
+msgid "Purge Settings"
+msgstr "Configuration du purge"
+
+#: admin/class-admin-setting.php:67
+msgid "Delete automaticaly items older than"
+msgstr "Supprimer automatiquement les éléments datant de"
+
+#: admin/class-admin-setting.php:68
+msgid "Items to delete"
+msgstr "Eléments à supprimer"
+
+#: admin/class-admin-setting.php:78
+msgid "Show archived post in front end"
+msgstr "Afficher les archives sur le front office"
+
+#: admin/class-admin-setting.php:90
+msgid ""
+"Show archived post in default admin list view (without filtering post status)"
+msgstr ""
+"Afficher les archives dans la page de liste par défaut (sans filtrage par "
+"status)"
+
+#: admin/class-admin-setting.php:115
+msgid "year"
+msgid_plural "years"
+msgstr[0] "an"
+msgstr[1] "ans"
+
+#: admin/class-admin-setting.php:116
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mois"
+msgstr[1] "mois"
+
+#: admin/class-admin-setting.php:141
+msgid "Archives manager"
+msgstr "Gestion des archives"
+
+#: admin/class-admin-setting.php:151
+msgid "Archives center"
+msgstr "Archives"
+
+#: widget/class-jpress-archive-widget.php:16
+msgid "As monthly archive of your site&#8217;s Posts."
+msgstr "Archive mensuel des contenus de votre site."
+
+#: widget/class-jpress-archive-widget.php:17
+msgid "jPress Archives"
+msgstr "jPress Archives"
+
+#: widget/class-jpress-archive-widget.php:70
+msgid "Post type :"
+msgstr "Type de publication"
+
+#~ msgid "Public"
+#~ msgstr "Visibilité"
+
+#~ msgid "Admin default list"
+#~ msgstr "Liste par défaut"
+
+#~ msgid "Sorry, no ID specified"
+#~ msgstr "Désolé, aucun ID spécifié"
